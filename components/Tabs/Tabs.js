@@ -7,11 +7,6 @@ class TabLink {
     this.tabData = tabElement.dataset.tab
     // console.log(this.tabData)
    
-
-
-
-
-
     // We need to find out if a user clicked 'all' cards or a specific category.  Follow the instructions below to accomplish this task:    
     
     // Delete this comment block when you work on the if statement
